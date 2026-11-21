@@ -35,8 +35,6 @@ Accede a la herramienta interactiva directamente:
 
 🌐 **[https://tavardt-mexico.github.io/llm-robustness-evaluator-mx/](https://tavardt-mexico.github.io/llm-robustness-evaluator-mx/)**
 
-🛠 **[https://tools.tavardt.com/mx/](https://tools.tavardt.com/mx/)**
-
 ---
 
 ## Uso via CLI

@@ -1,16 +1,11 @@
+
+# Evaluador de Robustez de LLM & Probador de Guardrails
+
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-00ff88?style=flat-square&logo=github)](https://tavardt-mexico.github.io/llm-robustness-evaluator-mx/)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![OWASP LLM](https://img.shields.io/badge/OWASP-LLM01%2FLLM02-red?style=flat-square)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 [![NIST AI RMF](https://img.shields.io/badge/NIST-AI%20RMF-blue?style=flat-square)](https://www.nist.gov/artificial-intelligence)
-
-<p align="center">
-  <a href="https://ag.tavardt.com/mx/">
-    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="600">
-  </a>
-</p>
-
-# Evaluador de Robustez de LLM & Probador de Guardrails
 
 **Auditoría Defensiva de Guardrails, Inyección de Prompt y Resiliencia de Modelos de IA**
 
@@ -104,5 +99,5 @@ Licencia MIT — uso libre para fines defensivos y educativos.
   <strong>TAVARDT — México</strong><br>
   <a href="https://ag.tavardt.com/mx/">https://ag.tavardt.com/mx/</a> &bull;
   <a href="https://tools.tavardt.com/mx/">https://tools.tavardt.com/mx/</a><br>
-  &copy; 2025 TAVARDT. Todos los derechos reservados.
+  &copy; 2026 TAVARDT. Todos los derechos reservados.
 </p>

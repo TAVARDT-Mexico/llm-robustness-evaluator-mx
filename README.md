@@ -15,17 +15,17 @@ Herramienta interactiva y CLI defensiva para desarrolladores que evalúan la sol
 
 ## Resumen
 
-> **OWASP LLM01 & LLM02** | **NIST AI RMF** | **100% Defensive — Zero Offensive Payloads**
+> **OWASP LLM01 & LLM02** | **NIST AI RMF** | **100% Defensive  -  Zero Offensive Payloads**
 
 ## 5 Vectores de Prueba Defensivos
 
 | # | Vector | Coverage |
 |---|--------|----------|
-| 1 | **Escape de Delimitador** — Detecta tokens de control inyectados (`</system>`, `[/INST]`) | ✅ |
-| 2 | **Filtración de System Prompt** — Identifica patrones de extracción de instrucciones | ✅ |
-| 3 | **Sustitución de Rol/Persona** — Verifica resistencia a sobreposiciones (DAN, modo dev) | ✅ |
-| 4 | **Ofuscación Estructural** — Evalúa cobertura contra Base64, leetspeak, homóglifos | ✅ |
-| 5 | **Inyección Indirecta de Contexto** — Simula documento RAG con payload embebido | ✅ |
+| 1 | **Escape de Delimitador**  -  Detecta tokens de control inyectados (`</system>`, `[/INST]`) | ✅ |
+| 2 | **Filtración de System Prompt**  -  Identifica patrones de extracción de instrucciones | ✅ |
+| 3 | **Sustitución de Rol/Persona**  -  Verifica resistencia a sobreposiciones (DAN, modo dev) | ✅ |
+| 4 | **Ofuscación Estructural**  -  Evalúa cobertura contra Base64, leetspeak, homóglifos | ✅ |
+| 5 | **Inyección Indirecta de Contexto**  -  Simula documento RAG con payload embebido | ✅ |
 
 ---
 
@@ -55,11 +55,11 @@ python llm_robustness_evaluator.py --prompt "You are a helpful assistant."
 
 ```
 Resilience Score: 85/100
-✅ V1 Delimiter Escape — PASS
-✅ V2 System Prompt Leakage — PASS
-✅ V3 Role/Persona Override — PASS
-✅ V4 Structural Obfuscation — PASS
-⚠️  V5 Indirect Context Injection — WARNING
+✅ V1 Delimiter Escape  -  PASS
+✅ V2 System Prompt Leakage  -  PASS
+✅ V3 Role/Persona Override  -  PASS
+✅ V4 Structural Obfuscation  -  PASS
+⚠️  V5 Indirect Context Injection  -  WARNING
 ```
 
 ---
@@ -89,12 +89,12 @@ Accede a la red oficial de portales TAVARDT:
 
 ## Licencia
 
-Licencia MIT — uso libre para fines defensivos y educativos.
+Licencia MIT  -  uso libre para fines defensivos y educativos.
 
 ---
 
 <p align="center">
-  <strong>TAVARDT — México</strong><br>
+  <strong>TAVARDT  -  México</strong><br>
   <a href="https://ag.tavardt.com/mx/">https://ag.tavardt.com/mx/</a> &bull;
   <a href="https://tools.tavardt.com/mx/">https://tools.tavardt.com/mx/</a><br>
   &copy; 2026 TAVARDT. Todos los derechos reservados.

@@ -42,7 +42,7 @@ Accede a la herramienta interactiva directamente:
 ### Instalación
 
 ```bash
-git clone https://github.com/TAVARDT-Mexico/llm-robustness-evaluator-mx.git
+git clone https://github.com/TAVARDT/llm-robustness-evaluator-mx.git
 cd llm-robustness-evaluator-mx
 pip install -r requirements.txt
 ```

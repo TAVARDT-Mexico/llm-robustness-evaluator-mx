@@ -74,31 +74,12 @@ El blueprint defensivo incluye:
 
 ***
 
-## Portales Oficiales
-
-Accede a la red oficial de portales TAVARDT:
-
-| Portal | URL |
-|-|-|
-| Portal Oficial TAVARDT | [Portal Institucional](https://ag.tavardt.com/mx/) |
-| Central de Herramientas | [Central de Ferramentas](https://tools.tavardt.com/mx/) |
-| Contacto | [Canal de Contato](https://ag.tavardt.com/mx/contact/) |
-| GitHub | [https://github.com/TAVARDT-Mexico](https://github.com/TAVARDT-Mexico) |
 
 ***
 
 ## Licencia
 
 Licencia MIT  -  uso libre para fines defensivos y educativos.
-
-***
-
-<p align="center">
-  <strong>TAVARDT  -  México</strong><br>
-  <a href="https://ag.tavardt.com/mx/">https://ag.tavardt.com/mx/</a> &bull;
-  <a href="https://tools.tavardt.com/mx/">https://tools.tavardt.com/mx/</a><br>
-  &copy; 2026 TAVARDT. Todos los derechos reservados.
-</p>
 
 ***
 

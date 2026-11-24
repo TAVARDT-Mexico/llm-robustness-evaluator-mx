@@ -99,3 +99,7 @@ Licencia MIT  -  uso libre para fines defensivos y educativos.
   <a href="https://tools.tavardt.com/mx/">https://tools.tavardt.com/mx/</a><br>
   &copy; 2026 TAVARDT. Todos los derechos reservados.
 </p>
+
+***
+
+© 2026 TAVARDT. Todos los derechos reservados.
